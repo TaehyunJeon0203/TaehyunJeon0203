@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 
 ### Contact & Channel
-<a herf="https://www.instagram.com/jeontaehyun0203/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a herf="mailto:"jeontaehyun0203@gmail.com"> <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a herf="https://www.instagram.com/jeontaehyun0203/"> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a herf="mailto:"jeontaehyun0203@gmail.com"> 
+  <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
