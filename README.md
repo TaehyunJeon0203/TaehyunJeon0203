@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Stacks
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+### Contact & Channel
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jeontaehyun0203/)
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
 <!--
 **TaehyunJeon0203/TaehyunJeon0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
