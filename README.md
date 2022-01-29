@@ -12,5 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-&logo=Instagram&logoColor=white)](https://www.instagram.com/jeontaehyun0203/)
 [![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
 
+![Taehyun's github stats](https://github-readme-stats.vercel.app/api?username=TaehyunJeon0203&show_icons=true&theme=dark)
 
 
