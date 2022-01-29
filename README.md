@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 ### Stacks
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=Git&logoColor=white)
 
 ### Contact & Channel
-<a herf="https://www.instagram.com/jeontaehyun0203/"> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a herf="mailto:jeontaehyun0203@gmail.com"> 
-  <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jeontaehyun0203/)
+
 
