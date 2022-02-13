@@ -15,6 +15,9 @@
 
 ### Have a good day! 🙏
 ![Taehyun's github stats](https://github-readme-stats.vercel.app/api?username=TaehyunJeon0203&show_icons=true&theme=dark)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{taehyun0203})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{taehyun0203})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/{taehyun0203})
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehyunJeon0203&count_bg=%23CDCDCD&title_bg=%231D1D1D&icon=&icon_color=%23FFFFFF&title=Visit&edge_flat=false)
 
