@@ -14,9 +14,10 @@
 [![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
 
 ### Have a good day! 🙏
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehyun0203)](https://solved.ac/taehyun0203)
+
 ![Taehyun's github stats](https://github-readme-stats.vercel.app/api?username=TaehyunJeon0203&show_icons=true&theme=dark)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehyun0203)](https://solved.ac/taehyun0203)
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehyunJeon0203&count_bg=%23CDCDCD&title_bg=%231D1D1D&icon=&icon_color=%23FFFFFF&title=Visit&edge_flat=false)
 
