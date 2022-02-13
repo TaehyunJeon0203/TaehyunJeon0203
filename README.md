@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=TaehyunJeon&fontSize=90)
 ## Hi I'm Taehyun! 👋
 
 ### 🛠 Stack
