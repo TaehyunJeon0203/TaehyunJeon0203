@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=TaehyunJeon&animation=twinkling&fontAlign=25&&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=TaehyunJeon&animation=twinkling&fontAlign=25&&fontSize=55)
 ## Hi I'm Taehyun! 👋
 
 ### 🛠 Stack
