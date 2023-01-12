@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=160&section=header&text=TaehyunJeon&animation=twinkling&fontAlign=25&&fontSize=55)
-## Hi I'm Taehyun! 👋
+## Hi I'm TH 👋
 
 ### 🛠 Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
