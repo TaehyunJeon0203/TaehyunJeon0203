@@ -14,7 +14,6 @@
 [![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
 
 ### Have a good day! 🙏
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehyun0203)](https://solved.ac/taehyun0203)
 
 ![Taehyun's github stats](https://github-readme-stats.vercel.app/api?username=TaehyunJeon0203&show_icons=true&theme=dark)
 
