@@ -14,9 +14,9 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white)
 
 ### 📞 Contact
-![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)](https://taehyunjeon0203.github.io/)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-&logo=Instagram&logoColor=white)](https://www.instagram.com/jeontaehyun0203/)
-![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)](https://taehyunjeon0203.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-&logo=Instagram&logoColor=white)](https://www.instagram.com/jeontaehyun0203/)
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jeontaehyun0203@gmail.com)
 
 ### Have a good day! 🙏
 
