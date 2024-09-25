@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 
 ### 📞 Contact
 [![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)](https://taehyunjeon0203.github.io/)
