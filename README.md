@@ -22,5 +22,5 @@
 ![Taehyun's github stats](https://github-readme-stats.vercel.app/api?username=TaehyunJeon0203&show_icons=true&theme=dark)
 
 
-![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FTaehyunJeon0203&count_bg=%23CDCDCD&title_bg=%231D1D1D&icon=&icon_color=%23FFFFFF&title=Visit&edge_flat=false)
+![Hits](https://myhits.vercel.app/api/hit/https://github.com/TaehyunJeon0203.github.io?color=gray&label=Visits&size=small)
 
