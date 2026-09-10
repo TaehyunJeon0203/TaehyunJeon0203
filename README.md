@@ -19,8 +19,5 @@
 
 ### Have a good one!! 🙏
 
-![Taehyun's github stats](https://github-readme-stats.vercel.app/api?username=TaehyunJeon0203&show_icons=true&theme=dark)
-
-
 [![Visits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FTaehyunJeon0203?color=gray&label=Visits&size=small)](https://myhits.vercel.app)
 
